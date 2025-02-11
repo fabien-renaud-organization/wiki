@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome","text":"<p>This wiki serves as a knowledge base for fabien-renaud-organization organization.</p>"},{"location":"#source-code","title":"Source code","text":"<p>https://github.com/fabien-renaud-organization/wiki</p>"}]}
